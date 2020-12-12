@@ -13,4 +13,4 @@ function twoNumberSum(array, targetSum) {
 	return []
 }
 // two for loops time complexity is O(n^2)
-// space complexity is linear O(1)
+// space complexity is constant O(1)
