@@ -37,7 +37,7 @@
     //     console.log(subStrObj)
     // }
 
-    // I learned that strings can have numberical value in JS. I thought about this way too much, was trying to implement several different
+    // I thought about this way too much, was trying to implement several different
     // data structures.. when .sort() was there all along. I am sure it can be optimized with a minHeap or something else but this works.
 
     function canSort(str) {
