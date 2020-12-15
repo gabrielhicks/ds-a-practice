@@ -5,7 +5,7 @@
 function sameFrequency(num1, num2){
     //first I will need two define two counter objects
     let arr1 = `${num1}`.split("") // O(1)
-    let rr2 = `${num2}`.split("") // O(1)
+    let arr2 = `${num2}`.split("") // O(1)
     let freqCount1 = {} // O(1)
     let freqCount2 = {} // O(1)
     // get rid of uneven sized arrays
